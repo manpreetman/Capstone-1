@@ -6,7 +6,7 @@ Every living thing in the world needs access to water to survive. Research shows
 
 • According to the World Health Organisation, 97 million Indians, second only to Chinese citizens, lack access to clean drinking water. The World Bank calculates that 21% of infectious infections in India are caused by filthy water.
 
- Objective:-
+Objective:-
 • The main objective of the project is predicting the quality of water.
 
 • Project also aims a reliable, affordable, consumer oriented and sustainable potable water supply and sanitation services.
